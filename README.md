@@ -1,4 +1,6 @@
-## asynchronous-D-FF
+# Asynchronous-D-FF
+
+## description
 A d(data) flip flop is the sequential element that has data input d driven to output q and as it is asynchronous the output is triggered by reset without waiting for the clock signal.
 
 ## features
